@@ -1,0 +1,16 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(491,5): warning MSB8028: The intermediate directory (x64/Release/) contains files shared from another project (Mandelbrot.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  RayCasting.cpp
+D:\repos\Cuda_Project_1\cuda_1\Raycasting\helper_math.h(1381,39): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\repos\Cuda_Project_1\cuda_1\Raycasting\helper_math.h(1381,28): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\repos\Cuda_Project_1\cuda_1\Raycasting\helper_math.h(1385,50): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\repos\Cuda_Project_1\cuda_1\Raycasting\helper_math.h(1385,39): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\repos\Cuda_Project_1\cuda_1\Raycasting\helper_math.h(1385,28): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\repos\Cuda_Project_1\cuda_1\Raycasting\helper_math.h(1389,61): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\repos\Cuda_Project_1\cuda_1\Raycasting\helper_math.h(1389,50): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\repos\Cuda_Project_1\cuda_1\Raycasting\helper_math.h(1389,39): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\repos\Cuda_Project_1\cuda_1\Raycasting\helper_math.h(1389,28): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\repos\Cuda_Project_1\cuda_1\Raycasting\RayCasting.cpp(184,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+     Creating library ../../bin/win64/Release/Raycasting.lib and object ../../bin/win64/Release/Raycasting.exp
+  Generating code
+  Finished generating code
+  Raycasting_vs2019.vcxproj -> D:\repos\Cuda_Project_1\bin\win64\Release\Raycasting.exe
